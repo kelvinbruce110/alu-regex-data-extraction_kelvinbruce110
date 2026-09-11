@@ -1,0 +1,39 @@
+{
+    "emails": [
+        "alice.mukamana@gmail.com",
+        "alice.mukamana@alueducation.com",
+        "jean.mutesi@alumni.alueducation.com",
+        "student.records@si.alueducation.com"
+    ],
+    "alu_email_validation": {
+        "official": [
+            "alice.mukamana@alueducation.com"
+        ],
+        "alumni": [
+            "jean.mutesi@alumni.alueducation.com"
+        ],
+        "si": [
+            "student.records@si.alueducation.com"
+        ]
+    },
+    "urls": [
+        "https://www.alueducation.com/support",
+        "https://portal.alueducation.com/login"
+    ],
+    "phone_numbers": [
+        "+250 788 123 456",
+        "0788 123 456",
+        "+250-722-555-901"
+    ],
+    "credit_cards": [
+        "************1111"
+    ],
+    "currency_amounts": [
+        "$1,250.50",
+        "RWF 45,000"
+    ],
+    "security": {
+        "unsafe_content_detected": true,
+        "credit_card_numbers_masked": true
+    }
+}
