@@ -1,0 +1,39 @@
+CUSTOMER SUPPORT API RESPONSE
+Generated: 11 September 2026
+
+Ticket #ALU-48291
+Customer: Alice Mukamana
+
+The customer can be reached at alice.mukamana@gmail.com.
+Her university address is alice.mukamana@alueducation.com.
+
+For alumni communication, use jean.mutesi@alumni.alueducation.com.
+The student information system contact is
+student.records@si.alueducation.com.
+
+Support portal:
+https://www.alueducation.com/support
+
+Alternative portal:
+https://portal.alueducation.com/login
+
+Customer phone numbers:
++250 788 123 456
+0788 123 456
++250-722-555-901
+
+Payment information:
+Transaction amount: $1,250.50
+Additional fee: RWF 45,000
+
+Payment processor reference:
+4111 1111 1111 1111
+
+Invalid examples:
+alice@
+hello@invalid
+https://
+12345
+
+Suspicious input:
+<script>alert('test')</script>
